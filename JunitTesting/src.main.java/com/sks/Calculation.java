@@ -2,6 +2,7 @@ package com.sks;
 
 
 //this is a comment
+//this is another comment
 public class Calculation {
 
 	public static double convertToDecimal(int numerator, int denominator) {
