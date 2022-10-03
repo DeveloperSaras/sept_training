@@ -1,5 +1,7 @@
 package com.sks;
 
+
+//this is a comment
 public class Calculation {
 
 	public static double convertToDecimal(int numerator, int denominator) {
